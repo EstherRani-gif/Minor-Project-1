@@ -1,5 +1,4 @@
-
-Minor Project-1 - 4-bit Adder Using CMOS Logic
+ # Minor Project-1 - 4-bit Adder Using CMOS Logic
 
 ## Description
 This project implements a 4-bit Ripple Carry Adder using CMOS logic gates.
