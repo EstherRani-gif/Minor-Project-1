@@ -1,8 +1,7 @@
- # Minor Project-1 - 4-bit Adder Using CMOS Logic
+ # Minor Project 1 - 4-Bit Adder Using CMOS Logic
 
 ## Description
-This project implements a 4-bit Ripple Carry Adder using CMOS logic gates.
-The adder is built hierarchically from basic gates to full adder to 4-bit adder.
+This project implements a 4-bit Ripple Carry Adder using CMOS logic gates. The adder is built hierarchically from basic gates to full adder to 4-bit adder.
 
 ## Modules
 - `cmos_inv` - CMOS Inverter (NOT gate)
@@ -16,14 +15,28 @@ The adder is built hierarchically from basic gates to full adder to 4-bit adder.
 - `adder4_cmos.v` - Design file
 - `tb_adder4.v` - Testbench file
 
-## How it Works
-A = 4-bit input, B = 4-bit input, Cin = Carry input
-Sum = A + B + Cin (4-bit output)
-Cout = Final Carry output
+## How it Works?
+- **A** - 4-bit input
+- **B** - 4-bit input
+- **Cin** - Carry input
+- **Sum** - A + B + Cin (4-bit output)
+- **Cout** - Final Carry output
 
-Example: A=0011 (3) + B=0101 (5) = Sum=1000 (8)
+Example: A = 0011 (3) + B = 0101 (5) = Sum = 1000 (8)
 
-## Results
-Simulation successful ga run ayyindhi.
+## Simulation
+- Tool: EDA Playground (Icarus Verilog + GTKWave)
+- Simulation ran successfully
+- Waveform verified successfully
 
+## Waveform
 ![Waveform](waveform.png)
+
+## Tools Used
+- Verilog HDL
+- EDA Playground
+- GTKWave
+
+## Author
+Esther Rani
+B.Tech - Electronics and Communication
