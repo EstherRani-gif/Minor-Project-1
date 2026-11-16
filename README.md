@@ -14,6 +14,7 @@ This project implements a 4-bit Ripple Carry Adder using CMOS logic gates. The a
 ## Files
 - `adder4_cmos.v` - Design file
 - `tb_adder4.v` - Testbench file
+- `waveform.png` - output photo
 
 ## How it Works?
 - **A** - 4-bit input
