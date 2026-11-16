@@ -39,4 +39,5 @@ Example: A = 0011 (3) + B = 0101 (5) = Sum = 1000 (8)
 
 ## Author
 Muvva Esther Rani
+
 B.Tech - Electronics and Communication
